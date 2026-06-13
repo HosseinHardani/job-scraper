@@ -1,5 +1,7 @@
 # job-scraper
+## Demo
 
+![demo](assets/demo.png)
 A command-line tool to scrape remote job listings, filter by keyword, and export results to CSV or JSON.
 
 ## Features
